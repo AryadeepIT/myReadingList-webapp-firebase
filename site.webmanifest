@@ -1,6 +1,6 @@
 {
-  "name": "myList",
-  "short_name": "myList",
+  "name": "myReadingList",
+  "short_name": "myReadingList",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -17,6 +17,3 @@
   "background_color": "#9F52C4",
   "display": "standalone"
 }
-
-
-
