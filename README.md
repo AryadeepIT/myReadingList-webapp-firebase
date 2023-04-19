@@ -1,7 +1,7 @@
 
 # My Reading List Web App
 
-This is a simple web application built with HTML, CSS, and JavaScript, designed to help users keep track of the books they want to read, are currently reading, and have already read.
+This is a simple web application built with HTML, CSS, and JavaScript, designed to help users keep track of the books they want to read and can be used as to-do-list app.
 
 ## Getting Started
 
